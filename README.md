@@ -2,7 +2,7 @@
 stock price real-time view during working time
 
 # requirement
-python3
+python3  
 pip install -r requirement.txt 
 
 # run
